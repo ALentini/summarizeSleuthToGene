@@ -1,7 +1,7 @@
 # summarizeSleuthToGene
 Uses the tximport algorithm to summarize estimated transcript counts from a normalized sleuth object to gene-level abundances.
 
-DISCLAIMER: This function is not supported by the creators of either tool, use at your own risk.
+DISCLAIMER: This function is not supported by the creators of either tool, use at your own risk. The function is mainly meant for visualization of normalized gene expression and not to be used for differential expression, see [this comment](https://github.com/pachterlab/sleuth/issues/188#issuecomment-400389161).
 
 tximport: Charlotte Soneson, Michael I. Love, Mark D. Robinson (2015): Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences. F1000Research [http://dx.doi.org/10.12688/f1000research.7563.1]
 
