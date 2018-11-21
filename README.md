@@ -1,5 +1,5 @@
 # summarizeSleuthToGene
-Use the tximport algorithm to summarize estimated transcript counts from a normalized sleuth object to gene-level abundances.
+Uses the tximport algorithm to summarize estimated transcript counts from a normalized sleuth object to gene-level abundances.
 
 DISCLAIMER: This function is not supported by the creators of either tool, use at your own risk.
 
